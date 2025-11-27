@@ -1,3 +1,4 @@
+# Provides Routes For The Web Application
 import traceback
 from flask import request, render_template, redirect, url_for, session, Blueprint, flash, abort
 from sqlalchemy import text
